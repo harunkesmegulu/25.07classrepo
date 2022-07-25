@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#paragraph3{
+    background-color: blueviolet;
+    font-size: 40px;
+}
+#paragraph2{
+    font-size: 40px;
+    }
+#paragraph1{
+    font-size: 40px;
+} 
+.ortak{
+    background-color: aqua;
+}  
+#p3{
+    background-color: aqua;
+    border:20px solid red;
+    padding: 20px;
+    margin: 50px;
+    border-style:double solid dotted ridge;
+    border-radius: 10px;;
+    text-align: center;
+    font-size: 30px;
+} 
+.container{
+    border: 2px solid red;
+    padding: 30px;
+}
